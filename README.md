@@ -7,7 +7,7 @@ Some people argue that Anaconda takes too much space (~ 3GB) and you end up with
 Finally, Bioconda is simply a channel (similar to a repository) from where you can download and install loads of packages related to bioinformatics.
 In this tutorial, we will use Miniconda and Bioconda to install bioinformatics tools.
 ### Install MIniconda
-Go to the tmp folder in the root directory of your machine
+Run this command to go to the tmp folder in the root directory of your machine:
 ```
 cd /tmp
 ```

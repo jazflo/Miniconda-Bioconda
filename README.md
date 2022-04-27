@@ -15,3 +15,7 @@ Once there, run this command to download a Miniconda installer from the web:
 ```
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 ```
+Once downloaded, you need to execute the script to start the installation of Miniconda. Use this command:
+```
+bash Miniconda3-latest-Linux-x86_64.sh
+```

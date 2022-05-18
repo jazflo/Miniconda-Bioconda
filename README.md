@@ -31,3 +31,13 @@ If you change your mind and decide that you'd rather not have the conda base env
 ```
 (base)jimena@DESKTOP-XXXXX:~$ conda config --set auto_activate_base false
 ```
+For this change to activate, you have to close the terminal and open a new one. Your command prompt should look like this:
+```
+jimena@DESKTOP-XXXXX:~$
+```
+To confirm that Miniconda was installed, type the below command and you should see a list of programmes/packages on your screen.
+```
+conda list
+```
+Done! IN the next step, you will add the bioconda channel and start using it to install bioinformatic software
+### Add Bioconda channel

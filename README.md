@@ -40,4 +40,4 @@ To confirm that Miniconda was installed, type the below command and you should s
 conda list
 ```
 Done! In the next step, you will add the bioconda channel and start using it to install bioinformatic software :)
-### Add Bioconda channel
+### Add the Bioconda channel

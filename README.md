@@ -27,4 +27,7 @@ At this stage, if you type [yes], you will have to close the terminal and open a
 ```
 (base)jimena@DESKTOP-XXXXX:~$
 ```
-
+If you change your mind and decide that you'd rather not have the conda base environment activate by default, you can use the following command:
+```
+(base)jimena@DESKTOP-XXXXX:~$ conda config --set auto_activate_base false
+```

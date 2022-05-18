@@ -19,3 +19,4 @@ Once downloaded, you need to execute the script to start the installation of Min
 ```
 bash Miniconda3-latest-Linux-x86_64.sh
 ```
+At some point of the installation, you have to accept the terms (just type yes) and then you have to confirm that you want to install Miniconda in the default location. I decided to accept the default location

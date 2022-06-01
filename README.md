@@ -47,3 +47,13 @@ conda config --add channels defaults
 conda config --add channels bioconda
 conda config --add channels conda-forge
 ```
+Once these commands have been executed, Bioconda has been enabled. If you want to install packages from Bioconda, you can just type:
+```
+conda install [package]
+```
+For example:
+``` 
+conda install ecoprimers
+conda install fastqc
+````
+

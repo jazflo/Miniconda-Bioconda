@@ -57,5 +57,5 @@ For example:
 conda install ecoprimers
 conda install fastqc
 ````
-Done!  
+Done!  In the next tutorial, you will learn about creating Python environments and working with the software OBITOOLS
 

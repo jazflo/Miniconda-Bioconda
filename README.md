@@ -41,7 +41,8 @@ conda list
 ```
 Done! In the next step, you will add the bioconda channel and start using it to install bioinformatic software :)
 ### Add the Bioconda channel
-Now, to add the bioconda channel and all channels that it depends on, you must type the following commands in this exact [order](https://bioconda.github.io/user/install.html):
+Bioconda is cool because it simplifies the installation process of bioinformatic packages, which can sometimes be very frustrating.
+To add the bioconda channel and all channels that it depends on, you must type the following commands in this exact [order](https://bioconda.github.io/user/install.html):
 ```
 conda config --add channels defaults
 conda config --add channels bioconda
@@ -56,4 +57,5 @@ For example:
 conda install ecoprimers
 conda install fastqc
 ````
+Done!  
 
